@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-12 12:01:06
+更新时间：2026-10-12 12:01:51
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,4 +10,5 @@
 | 4 | wencheng_test | Mc******dd | 2 |
 | 4 | zjj001mcdMcpTest | zh******20 | 2 |
 | 6 | mcd-skill-fighter | so***ky | 1 |
+| 6 | mcdonalds-skill-2026 | Pa***ck | 1 |
 | 6 | wencheng_test1232222 | xy****24 | 1 |
